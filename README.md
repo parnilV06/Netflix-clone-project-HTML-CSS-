@@ -1,4 +1,5 @@
-# Netflix-clone-project-HTML-CSS-
+# Netflix-clone-project-HTML-CSS
+
 Netflix clone website project using HTML & CSS under Sigma web development course by @CodewithHarry
 
 I am learning Web Development 
